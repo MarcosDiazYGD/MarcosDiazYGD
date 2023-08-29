@@ -1,6 +1,6 @@
-[![MasterHead](https://images.pexels.com/photos/5935787/pexels-photo-5935787.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://marcosdiazygd.io)
+[![MasterHead]([https://images.pexels.com/photos/5935787/pexels-photo-5935787.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1](https://i.imgur.com/fPT6kq2.gifv))](https://marcosdiazygd.io)
 <h1 align="center">Hi 👋,I'm Marco Diaz</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate Full Stack developer from Colombia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
