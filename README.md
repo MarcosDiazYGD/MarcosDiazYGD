@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/114717431?s=400&u=31a1e033148235b64a5a58625c2a777bab7cbc57&v=4"  />
-</div>
 
 ###
 
